@@ -7,6 +7,7 @@ author: bluemirr5
 category: dev/Webpack
 tags: webpack frontend
 finished: true
+comments: true
 ---
 
 웹팩은 최신 자바스크립트 어플리케이션 개발을 위한 모듈 번들러이다.
