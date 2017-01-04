@@ -1,0 +1,19 @@
+# Site settings
+title: Rang2Ne Blog
+name: Rang2Ne Blog # your name
+email: bluemirr5@gmail.com # your email address
+description: >
+    A Simple Jekyll Blog Theme. # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://bluemirr5.github.io" # the base hostname & protocol for your site
+twitter_username: bluemirr5 # your Twitter username
+github_username: bluemirr5 # your Github username
+disqus_username: bluemirr5 # your disqus username
+
+google-analytics: UA-75034651-1 # add it if you have one
+
+skillstree: true # turn on or off the skills tree in about page
+
+# Build settings
+permalink: none
+markdown: kramdown
